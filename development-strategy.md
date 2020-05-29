@@ -21,6 +21,9 @@ __Aa a user, I can see my initial repository and live demo__
 - Generate from Template
 - Write initial, basic README
 - Write initial, basic Development Strategy
+- Create new file of about.html, services.html, contact.html
+- add css files: style.css, font-awesome.css, flexboxgrid.css
+- add assets
 - Turn on GitHub Pages
 
 ## 1. __

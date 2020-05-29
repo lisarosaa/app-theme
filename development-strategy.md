@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+> `app-theme`
 
 write a short description of your project:
 - who would want to use it?
@@ -14,12 +14,13 @@ write a short description of your project:
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+__Aa a user, I can see my initial repository and live demo__
 
 ### Repo
 
 - Generate from Template
 - Write initial, basic README
+- Write initial, basic Development Strategy
 - Turn on GitHub Pages
 
 ## 1. __

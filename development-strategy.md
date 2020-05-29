@@ -26,27 +26,134 @@ __Aa a user, I can see my initial repository and live demo__
 - add assets
 - Turn on GitHub Pages
 
-## 1. __
+## 1. User-story: Header-Footer
 
-__full user story description__
+__As a user of the site, I want to know the name of the website__
+
 
 ### Repo
 
-what branch(es) did you work on?
+1. This user story was developed on a brach called `header-footer`
+2. The new branch was pushed to the shared repository
+3. A pull request was made to `master` & reviewed by the team
+4. Changes were merged to `master`.
 
 ### HTML
 
-what did you change in the HTML and why?
+- A header element with a name of website
+- A navigation bar with a name of its function
+- A footer
 
 ### CSS
 
-what did you change in the CSS and why?
+- Layout styling for the header, navigation bar, & footer
+- Text styling for the name of website, navigation bar, and footer
 
-## 2. ...
+## 2. User Story: Core-Features
 
-...
+__As a user of the site, I want to know more about website and its services__
 
-...
+1. This user story was developed on a brach called `core-features`
+2. The new branch was pushed to the shared repository
+3. A pull request was made to `master` & reviewed by the team
+4. Changes were merged to `master`.
+
+### HTML
+
+- A section of showcase
+- A section of features
+- A section of information
+
+### CSS
+
+- Styling for a section of boxes
+- Styling for a section of showcase
+- Styling for a section of information
+
+## 3. User Story: Company-Info
+__As a user of the site, I want to know about the company and subscribe the mailing list__
+
+1. This user story was developed on a brach called `company-info`
+2. The new branch was pushed to the shared repository
+3. A pull request was made to `master` & reviewed by the team
+4. Changes were merged to `master`.
+
+### HTML
+
+A section of company
+
+### CSS
+
+Styling for a section of company
+
+## 4. User Story: About-Page
+__As a user of the site, I want to know more about the provider of service and their work__
+
+1. This user story was developed on a brach called `about-page`
+2. The new branch was pushed to the shared repository
+3. A pull request was made to `master` & reviewed by the team
+4. Changes were merged to `master`.
+
+### HTML
+
+- A section of subheader
+- Main article about 'Who We Are' and 'What We Do'
+
+### CSS
+
+- Styling for section of subheader
+- Styling for section about 'Who We Are' and 'What We Do'
+
+## 5. User Story: Services-Page
+__As a user of the site, I want to know about the type of services__
+
+1. This user story was developed on a brach called `services-page`
+2. The new branch was pushed to the shared repository
+3. A pull request was made to `master` & reviewed by the team
+4. Changes were merged to `master`.
+
+
+### HTML
+
+- A section of subheader
+- A section about 'What We Offer'
+
+### CSS
+
+- Styling for section of subheader
+- Styling for section about 'What We Offer'
+
+## 6. User Story: Contact-Page
+__As a user of the site, I want to be able to contact the company__
+
+1. This user story was developed on a brach called `contact-page`
+2. The new branch was pushed to the shared repository
+3. A pull request was made to `master` & reviewed by the team
+4. Changes were merged to `master`.
+
+
+### HTML
+
+- A section of subheader
+- A section about 'Contact Form'
+
+### CSS
+
+- Styling for section of subheader
+- Styling for section about 'Contact Form'
+
+## 7. User Story: Responsiveness
+__As a user of the site, I want to be make a responsive website__
+
+1. This user story was developed on a brach called `responsiveness`
+2. The new branch was pushed to the shared repository
+3. A pull request was made to `master` & reviewed by the team
+4. Changes were merged to `master`.
+
+### CSS
+
+- Styling using media queries
+
 
 ## Finishing Touches
 

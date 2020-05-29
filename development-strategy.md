@@ -97,7 +97,7 @@ __As a user of the site, I want to know more about the provider of service and t
 ### HTML
 
 - A section of subheader
-- Main article about 'Who We Are' and 'What We Do'
+- Section about 'Who We Are' and 'What We Do'
 
 ### CSS
 

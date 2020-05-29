@@ -10,7 +10,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./assets/wireframe.png)
 
 ## 0. Set-Up
 
@@ -154,9 +154,17 @@ __As a user of the site, I want to be make a responsive website__
 
 - Styling using media queries
 
+## 8. User Story: Finishing
+__As a user of the site, I want to make everything perfect__
 
-## Finishing Touches
+1. This user story was developed on a brach called `finishing-touch`
+2. The new branch was pushed to the shared repository
+3. A pull request was made to `master` & reviewed by the team
+4. Changes were merged to `master`.
 
+### Finishing Touches
+
+- Update development strategy
 - Write final, complete README:
   - [makeareadme.com](https://www.makeareadme.com/)
   - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)

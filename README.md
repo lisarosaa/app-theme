@@ -8,7 +8,7 @@
 
 
 ## About
-This project is a self-project exercise from [Hack Your Future](https://hackyourfuture.be/). It aims to create a website using responsive layout and flexboxgrid. The project uses _Build an HTML5 Website with a Responsive Layout by [Traversy Media](https://www.youtube.com/watch?v=qlA7dputiNc) as an example.
+This project is a self-project exercise from [Hack Your Future](https://hackyourfuture.be/). It aims to create a website using responsive layout and flexboxgrid. The project uses _Build A Responsive HTML & CSS Template With FlexboxGrid_ by [Traversy Media](https://www.youtube.com/watch?v=qlA7dputiNc) as an example.
 	
 ## Goals
 

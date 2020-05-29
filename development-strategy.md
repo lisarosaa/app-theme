@@ -2,9 +2,7 @@
 
 > `app-theme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+The project is created to make a responsive layout website using HTML, CSS and Flexboxgrid
 
 ## Wireframe
 
